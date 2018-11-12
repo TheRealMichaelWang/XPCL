@@ -1,0 +1,6 @@
+c:\users\michael\documents\visual studio 2015\Projects\XPCLInterpreter\XPCLInterpreter\bin\Debug\XPCLInterpreter.exe.config
+c:\users\michael\documents\visual studio 2015\Projects\XPCLInterpreter\XPCLInterpreter\bin\Debug\XPCLInterpreter.exe
+c:\users\michael\documents\visual studio 2015\Projects\XPCLInterpreter\XPCLInterpreter\bin\Debug\XPCLInterpreter.pdb
+c:\users\michael\documents\visual studio 2015\Projects\XPCLInterpreter\XPCLInterpreter\obj\Debug\XPCLInterpreter.exe
+c:\users\michael\documents\visual studio 2015\Projects\XPCLInterpreter\XPCLInterpreter\obj\Debug\XPCLInterpreter.pdb
+C:\Users\Michael\Documents\Visual Studio 2015\Projects\XPCLInterpreter\XPCLInterpreter\obj\Debug\XPCLInterpreter.csprojResolveAssemblyReference.cache
